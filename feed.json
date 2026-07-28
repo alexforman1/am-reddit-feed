@@ -174,6 +174,11 @@
       "id": "034-dozen-ingredients",
       "title": "A single tablet can carry a dozen inactive ingredients. Most training focuses on exactly one.",
       "body": "Providers are trained to focus on the active ingredient. But a single tablet can carry a dozen inactive ingredients: dyes, fillers, binders, preservatives, coatings.\n\nFor most patients these are clinically irrelevant. For patients with sensitivities, allergies, or intolerances, they can drive a reaction that looks like drug failure, or a brand-new allergy.\n\nThe hard part: this information is fragmented across package inserts and manufacturer databases, and it shifts between generics and even between batches. That's a lot to track mid-consult.\n\nAllergenMaps brings it into one searchable place, so providers can give patients a precise answer instead of an educated guess.\n\nShare this with a colleague who fields ingredient questions every day.\nhttps://allergenmaps.org/"
+    },
+    {
+      "id": "035-why-we-built-it",
+      "title": "Why we built AllergenMaps",
+      "body": "People sometimes ask why we built AllergenMaps in the first place.\n\nIt was the questions that couldn't be answered fast enough. \"Does this have lactose?\" \"Is there a dye-free version?\" \"My child reacts to something in this, what else can they take?\" The information existed, but it was buried in places you can't search in real time with a patient standing in front of you.\n\nWe got tired of \"let me look into it\" and hoping they'd call back.\n\nAllergenMaps answers those questions on the spot. It turns a recurring frustration into a thirty-second part of counseling. That's the kind of change that adds up across a career.\n\nIf you've ever had to say \"let me get back to you,\" try answering it live instead.\nhttps://allergenmaps.org/"
     }
   ]
 }
