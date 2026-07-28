@@ -169,6 +169,11 @@
       "id": "033-mystery-reactions",
       "title": "Mystery reactions: when someone \"feels off\" on a medication and nobody thinks to check the inactive ingredients",
       "body": "Something our team saw for years behind the counter: patients coming back saying they \"felt off\" on a medication, and no one able to pin down why.\n\n\"It's probably unrelated.\" Sometimes it was. Sometimes it was an inactive ingredient nobody had checked.\n\nAllergenMaps was built to close that gap at the counter. When a patient with sensitivities picks up a new prescription, screening it takes seconds: before they leave, not after the reaction.\n\nThe result: fewer bounce-backs with mystery reactions, and patients who trust that someone actually looked.\n\nIf mystery reactions are a recurring theme in your practice, run a few searches and see what you find.\nhttps://allergenmaps.org/"
+    },
+    {
+      "id": "034-dozen-ingredients",
+      "title": "A single tablet can carry a dozen inactive ingredients. Most training focuses on exactly one.",
+      "body": "Providers are trained to focus on the active ingredient. But a single tablet can carry a dozen inactive ingredients: dyes, fillers, binders, preservatives, coatings.\n\nFor most patients these are clinically irrelevant. For patients with sensitivities, allergies, or intolerances, they can drive a reaction that looks like drug failure, or a brand-new allergy.\n\nThe hard part: this information is fragmented across package inserts and manufacturer databases, and it shifts between generics and even between batches. That's a lot to track mid-consult.\n\nAllergenMaps brings it into one searchable place, so providers can give patients a precise answer instead of an educated guess.\n\nShare this with a colleague who fields ingredient questions every day.\nhttps://allergenmaps.org/"
     }
   ]
 }
