@@ -159,6 +159,11 @@
       "id": "031-app",
       "title": "How AllergenMeds works: scan a barcode, see every ingredient, know before you swallow",
       "body": "A quick tour of the app this community is built around, for newcomers.\n\n**What it does:** scan a medication's barcode or type its NDC, and AllergenMeds shows you what's inside, flagging ingredients linked to allergies, intolerances, and dietary or religious restrictions. Lactose, dyes, gluten sources, gelatin, PEG, sulfites, titanium dioxide, and more.\n\n**Built for real life:**\n\n- **Family profiles**: track different sensitivities for different family members (your kid's dye sensitivity, your own lactose issue) and check any product against each person\n- **Refill reminders**: because fillers can change between refills when manufacturers switch\n- **Privacy**: scanning happens on your device. Nothing is photographed or uploaded.\n\n**Cost:** free on Google Play. iPhone version is coming soon.\n\nWhy we built it: food labels warn you about allergens, medicine labels don't have to, and most of a pill isn't medicine. Someone had to make the other 90% searchable.\n\nhttps://allergenmeds.com/\n\nAllergenMeds is for information only, not medical advice."
+    },
+    {
+      "id": "032-case-dye-hives",
+      "title": "A real case: a 7-year-old broke out in hives after every dose of allergy syrup. The culprit wasn't the drug.",
+      "body": "A real case from our team's time behind the counter.\n\nA mom came in last month, frustrated and out of ideas. Her 7-year-old broke out in hives every time he took a common allergy syrup. She was convinced he was allergic to the medication itself, but that didn't add up clinically. The active ingredient is well tolerated by most kids his age.\n\nThe product went into AllergenMaps. The reaction wasn't to the drug. It was the artificial dye in the liquid formulation.\n\nFilter out the dye, find a clear alternative with the same active ingredient, loop in the prescriber, make the switch. He's been symptom-free since.\n\nThat's the kind of save that's only possible when you can actually see what's in the bottle.\n\nNext time a reaction doesn't fit the drug, check the inactive ingredients.\nhttps://allergenmaps.org/"
     }
   ]
 }
