@@ -1,1 +1,9 @@
-{"posts": []}
+{
+  "posts": [
+    {
+      "id": "030-falcpa-labeling-gap",
+      "title": "Did you know? The FALCPA allergen-labeling law requires food manufacturers to clearly declare major allergens on labels.",
+      "body": "It does NOT apply to pharmaceutical drugs.\n\nThat's right - while a bread loaf must clearly state \"contains wheat\", no such labeling laws exist for pills and capsules.\nExcipients (the 95% of what you swallow that isn't the active drug) can contain hidden gluten, soy, milk, eggs, nuts...\n8,600+ studies and patient case reports link these hidden allergens to common fillers like lactose, dyes, and gelatin.\n\nThis has to change. That's why we built AllergenMaps - a tool for pharmacies and prescribers to screen what's actually in medications.\nSearch by NDC or brand/generic name and get a full breakdown of inactive ingredients cross-referenced against those scientific links.\n\nIf you work on the front lines of pharmacy, watch the demo and reach out. We'd love to show you how AllergenMaps is changing this gap in patient care.\nhttps://allergenmaps.org/"
+    }
+  ]
+}
