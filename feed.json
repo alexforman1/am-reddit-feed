@@ -199,6 +199,11 @@
       "id": "031-compare-formulations",
       "title": "A patient brings you two bottles of the same generic medication, hoping to find which is safer for their dairy-free diet.",
       "body": "In the past, you might have called the manufacturer or paged a colleague. Now you can simply compare them on AllergenMaps and be sure.\n\nOn one screen, you can see differences like these:\nOne contains lactose; the other uses a rice-based filler.\nBoth use magnesium stearate, but one's is kosher certified while the other's isn't.\nOne has artificial dyes; the other uses natural colors derived from vegetable sources.\n\nCompare formulations with our search and filter tools, then confidently guide them to the right choice.\n\nIf you work in pharmacy or drug safety and want a demo, reach out. We'd love to show you how we make this simple.\nhttps://allergenmaps.org/"
+    },
+    {
+      "id": "032-celiac-hidden-gluten",
+      "title": "A celiac patient is prescribed antibiotics. Hidden in the filler: a gluten source their whole care team missed. Excipient labeling on prescription drugs is practically nonexistent, so risks like this slip through every day.",
+      "body": "Most patients have no idea their medication can contain gluten at all. Most pharmacists have no fast way to check.\n\nAllergenMaps changes that. Search any medication and see a full breakdown of what's inside, with hidden allergens flagged, then pull up a short list of safe alternatives to discuss with the prescriber.\n\nFor patients with celiac disease or other autoimmune conditions, that's not a convenience. It's safety.\nhttps://allergenmaps.org/"
     }
   ]
 }
